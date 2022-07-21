@@ -12,8 +12,8 @@ global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
 global.numberowner = '6281251549899' //ganti pakai nomor mu
-global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
-global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
+global.instagram = 'https://www.instagram.com/danibotz_official' //ganti pakai Instagram mu
+global.github = 'https://github.com/YTDANIBOTZ' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
 global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
@@ -33,8 +33,8 @@ global.nomer = 'https://wa.me/6281251549899' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti pakai foto bot mu
+global.fotonya1 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ini juga ganti pakai foto bot mu
 global.fotonya3 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
 global.fotonya4 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
 global.fotonya5 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
