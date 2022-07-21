@@ -35,11 +35,11 @@ global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/5cbfb30824436841a04bb.png' //ini juga ganti
 global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
 global.donasi = 'https://telegra.ph/file/c171460c1e60d22ea379e.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
